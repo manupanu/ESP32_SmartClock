@@ -1,0 +1,5 @@
+CompileFlags:
+  Add:
+    - "--include-directory=/Users/manuel/Library/Arduino15/packages/esp32/hardware/esp32/3.3.2/cores/esp32"
+    - "--include-directory=/Users/manuel/Library/Arduino15/packages/esp32/hardware/esp32/3.3.2/variants/lolin_c3_mini"
+    - "--include-directory=/Users/manuel/Developer/ESP32-Clock"
